@@ -89,7 +89,7 @@ git status
 
 ## Changing the Location of a Branch
 
-This example uses the [`git reset]`](https://git-scm.com/docs/git-reset) command with the `--hard` flag. `--hard` will wipe any untracked changes.
+This example uses the [`git reset`](https://git-scm.com/docs/git-reset) command with the `--hard` flag. `--hard` will wipe any untracked changes.
 Read the reference docs to understand how to use `git reset` with no flag, with the `--soft` flag and with the `--hard` flag.
 
 ```bash
